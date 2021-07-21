@@ -124,6 +124,9 @@
 <img src = "https://user-images.githubusercontent.com/48000920/126442286-6e25550f-6907-4d2e-90af-6a2f62b4d850.png" width="70%" height="70%">
 <img src = "https://user-images.githubusercontent.com/48000920/126442304-404d731b-eb14-49ec-9660-bd6541b18f9f.png" width="70%" height="70%">
 
+# 발표자료
+  [HAS 발표자료](https://github.com/kja8147/Hallym_Capstone_HAS/files/6853386/2020-1.HAS.pdf)
+
 # 시연영상
   
   1. 공학관 내부의 RSS 데이터 수집 및 Radio map 생성 - https://youtu.be/WFhvA-IQb90
