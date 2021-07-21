@@ -142,6 +142,6 @@
   * [2020-1학기 캡스톤디자인 200414 회의록](https://github.com/kja8147/Hallym_Capstone_HAS/files/6853334/2020-1.200414.pdf)
   * [2020-1학기 캡스톤디자인 200421 회의록](https://github.com/kja8147/Hallym_Capstone_HAS/files/6853335/2020-1.200421.pdf)
   * [2020-1학기 캡스톤디자인 200428 회의록](https://github.com/kja8147/Hallym_Capstone_HAS/files/6853336/2020-1.200428.pdf)
-  * [2020-1학기 캡스톤디자인 200519 회의록](https://drive.google.com/file/d/1prEXLQ_5slSAFTah8wYXbpZJWsySlt4y/view?usp=sharing)
+  * [2020-1학기 캡스톤디자인 200512 회의록](https://drive.google.com/file/d/1tFszON3l0FZqbq4PcgkeHNDcu8kwllhQ/view?usp=sharing)
   * [2020-1학기 캡스톤디자인 200519 회의록](https://github.com/kja8147/Hallym_Capstone_HAS/files/6853337/2020-1.200519.pdf)
 
