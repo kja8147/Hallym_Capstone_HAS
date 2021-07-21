@@ -1,0 +1,14 @@
+          Cell 01 - Address: 60:D0:2C:11:97:3C
+          Cell 02 - Address: 38:17:C3:C2:14:30
+          Cell 03 - Address: 38:17:C3:C2:14:32
+          Cell 04 - Address: 38:17:C3:C2:14:33
+          Cell 05 - Address: 38:17:C3:C2:14:34
+          Cell 06 - Address: 38:17:C3:C2:11:94
+          Cell 07 - Address: 38:17:C3:C2:11:90
+          Cell 08 - Address: 38:17:C3:C2:11:92
+          Cell 09 - Address: CC:40:D0:AF:EB:B1
+          Cell 10 - Address: 54:B8:0A:AA:92:2E
+          Cell 11 - Address: 38:17:C3:C2:13:B0
+          Cell 12 - Address: 38:17:C3:C2:13:B2
+          Cell 13 - Address: 38:17:C3:C2:13:B3
+          Cell 14 - Address: 38:17:C3:C2:13:B4

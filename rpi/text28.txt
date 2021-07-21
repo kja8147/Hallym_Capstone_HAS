@@ -1,0 +1,9 @@
+          Cell 01 - Address: 24:F2:7F:FF:53:12
+          Cell 02 - Address: 24:F2:7F:FF:53:13
+          Cell 03 - Address: 24:F2:7F:FF:53:14
+          Cell 04 - Address: 24:F2:7F:FF:53:10
+          Cell 05 - Address: 24:F2:7F:FF:76:92
+          Cell 06 - Address: 24:F2:7F:FF:76:93
+          Cell 07 - Address: 44:48:C1:27:95:B2
+          Cell 08 - Address: 44:48:C1:27:95:B3
+          Cell 09 - Address: 44:48:C1:27:95:B0

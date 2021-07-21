@@ -1,0 +1,6 @@
+          Cell 01 - Address: 38:17:C3:C2:14:32
+          Cell 02 - Address: 60:D0:2C:11:97:3C
+          Cell 03 - Address: 24:F2:7F:FF:5C:F2
+          Cell 04 - Address: 24:F2:7F:FF:5C:F4
+          Cell 05 - Address: 44:48:C1:27:96:12
+          Cell 06 - Address: 44:48:C1:27:96:13
