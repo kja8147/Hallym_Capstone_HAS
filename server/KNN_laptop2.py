@@ -151,13 +151,14 @@ def tracking(data,addr,user_count):
             print(radioMap_result)
             print(radioMidMap_result)
             
-            # values를 통한 거리값 저장
+            # 유클리디안 알고리즘을 이용해 각 값들간의 거리값 저장
             for keys, values in radioMidMap_result.items():
 
                 fingerDistance[keys] = q.eucliDis(values, fingerPrintRss)
 
             print('DisList:', fingerDistance)
-
+            
+            # 최소거리 가지는 결과값 저장
             min_result = min(fingerDistance.values())
 
             # 결과값 출력
