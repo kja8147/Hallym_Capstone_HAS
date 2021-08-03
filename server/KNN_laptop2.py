@@ -4,7 +4,6 @@ import numpy as np
 from _thread import *
 from collections import defaultdict
 import coordinates as coordinate
-#written by 김진아 _2020
 radioMap=defaultdict(list)
 radioMidMap=defaultdict(list)
 fingerDistance=defaultdict()
