@@ -39,7 +39,7 @@ class Laptop:
         midValue = listCopy[int(len(listCopy) / 2)]
         midValueList.append(midValue)
 
-    # euclidean distance
+    # by 김진아, euclidean distance
     def eucliDis(self,mapRss, userRss):
 
         temp_sum = 0
@@ -140,7 +140,7 @@ def tracking(data,addr,user_count):
 
     #track location
     elif data[0]==1:
-        # fingerprint
+        # by 김진아, fingerprint 
         if(KNN_flag ==False):
             with open("radioMap_night.pickle", "rb") as fr:
                 radioMap_result = pickle.load(fr)
@@ -150,7 +150,8 @@ def tracking(data,addr,user_count):
 
             print(radioMap_result)
             print(radioMidMap_result)
-
+            
+            # values를 통한 거리값 저장
             for keys, values in radioMidMap_result.items():
 
                 fingerDistance[keys] = q.eucliDis(values, fingerPrintRss)
@@ -159,10 +160,12 @@ def tracking(data,addr,user_count):
 
             min_result = min(fingerDistance.values())
 
+            # 결과값 출력
             for key, values in fingerDistance.items():
                 # print('dis:',key,values)
                 if values == min_result:
                     print('result:', addr, key, values)
+                    
         #knn mode
         else:
             print('knn mode')
